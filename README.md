@@ -27,7 +27,7 @@ This exercise includes use of file handling, string manipulation, exception hand
 #### OOPS concept
 - [Implementation of oops in converter and charts program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week3)
 
-#### Zip and unzip and Mail
+#### Zip, unzip and Sending Mail
 - [zipping, unzipping and sending automated mails with attachments](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week4)
 
 #### Testing
