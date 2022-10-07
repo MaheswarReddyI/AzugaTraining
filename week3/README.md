@@ -26,15 +26,15 @@ This program is used to  call FakestoreAPI to get json data and covert it into c
 - [OpenCSV](https://opencsv.sourceforge.net/) : Used for reading and writing into csv file
 
 
-## csv to html
+## CsvToHtml
 This program converts csv file to html file including display of image through image attribute of html.
 
-## csv to pdf
+## CsvToPdf
 This program converts csv file to pdf file in a readable format.
 #### External library
 - [itextpdf](https://github.com/itext/itextpdf)
 
-## json to xml
+## JsonToXml
 This program converts json file to xml file in a proper format. 
 #### External library
 - [opencsv 1.7](https://img.shields.io/badge/opencsv-1.7-green.svg)
@@ -46,13 +46,13 @@ Generating multiple charts from [FakeStore API](https://fakestoreapi.com/docs)
 - [jfreechart](https://github.com/jfree/jfreechart) : It is used for generating charts from dataset collection.
 
 
-## Bar graph
+## BarGraph
 This program generate bar graph from data of fakestore API. Product to price comparision can be seen in the bar graph.
 
-## Pie Chart
+## PieChart
 This program generate pie chart from data of FakeStore api. It consist of Category of items as the dataset.
 
-## Line chart
+## LineChart
 This program plots line chart of item and it's price of fakestore api.
 
 
