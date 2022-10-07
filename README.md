@@ -2,7 +2,7 @@
 # Azuga Training
 
 
-I would like to share the developed codes during the Training with CodeOps
+I would like to share the developed codes during the Training of CodeOps
 with everyone. JDK 11 is used to write all the codes.
 This exercise includes use of file handling, string manipulation, exception handling, clean coding practices and File Conversions.
 
@@ -21,7 +21,7 @@ This exercise includes use of file handling, string manipulation, exception hand
 - [Converter Program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week2)
 
 
-#### Charts generation
+#### Generation of charts
 - [Charts program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week2)
 
 #### OOPS concept
@@ -30,6 +30,6 @@ This exercise includes use of file handling, string manipulation, exception hand
 #### Zip, unzip and Sending Mail
 - [zipping, unzipping and sending automated mails with attachments](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week4)
 
-#### Testing
+#### Unit Testing
 - [JUnit5 testing for Pipe and Converter program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week4)
 
