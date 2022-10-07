@@ -1,35 +1,29 @@
- 
-# Azuga Training
+
+## Programs to mimic Linux commands in java
 
 
-I would like to share the developed codes during the Training with CodeOps
-with everyone. JDK 11 is used to write all the codes.
-This exercise includes use of file handling, string manipulation, exception handling, clean coding practices and File Conversions.
+### ls
+This program mimics ls linux command and its options.
 
-## Features
- #### Programs to mimic the linux commands
-- [Basic linux commands (cat, touch, mkdir etc.)](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week1)
-- [ls command program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week1)
-- [wc command program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week1)
-- [pipe command program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week1)
+### wcm
+This program mimics wc linux command and its options.
 
-#### RestAPI
-- [FakestoreAPI program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week2)
+### pipe
+This program mimics use of pipe '|' symbol with ls, cat, wc and head and tail command. 
 
-#### convertersions
+### cp 
 
-- [Converter Program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week2)
+This program mimics cp linux command.
 
+-----
+### FAQ
 
-#### Charts generation
-- [Charts program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week2)
+#### how to give input to these programs?
 
-#### OOPS concept
-- [Implementation of oops in converter and charts program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week3)
+As command line arguments
 
-#### Zip and unzip and Mail
-- [zipping, unzipping and sending automated mails with attachments](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week4)
+#### Question 2
 
-#### Testing
-- [JUnit5 testing for Pipe and Converter program](https://github.com/MaheswarReddyI/AzugaTraining/tree/Features/week4)
+Answer 2
+
 
